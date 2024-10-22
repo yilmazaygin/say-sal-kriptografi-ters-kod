@@ -1,4 +1,5 @@
-  İçindekiler
+Bu Notta Bulabileceğiniz Her Şey:
+  
 Bu Notlar Hakkında
 Özgür Yazılım Hakkında
 Özgür Yazılım Nedir?
